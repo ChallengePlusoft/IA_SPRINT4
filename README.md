@@ -2,7 +2,7 @@
 [https://youtu.be/5c2ZySMd_58?si=scT6DSgMkSgInTDg](https://youtu.be/B8K1K7vVT2A)
 
 ## Link backend replit 
-https://replit.com/@edu0127okubo/ApiAISprint#main.py
+[https://replit.com/@edu0127okubo/ApiAISprint#main.py](https://replit.com/@edu0127okubo/ApiAISprint#main.py)
 
 ## LINK PROJETO KOTLIN (caso queira testar)
 https://github.com/Duh0127/BeautyTech_Kotlin
